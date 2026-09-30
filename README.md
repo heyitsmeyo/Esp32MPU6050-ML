@@ -7,5 +7,7 @@ For the dataset , it wasn't recorded , but preprocessed from an exisiting datase
 
     https://www.kaggle.com/datasets/dilharajayawardhane/6-axis-motion-gesture-dataset-hand-waves-and-flicks
 
+The model was then deployed on Esp32 MCU on behalf of edge impulse.  
+
 
 
