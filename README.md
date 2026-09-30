@@ -1,4 +1,4 @@
-# This mini project let the user to predict 3 gestures : idle , wave right and wave left that are depending on the mpu6050 6 sensors axes data.
+# This mini project let the user  predict 3 gestures : idle , wave right and wave left that are depending on the mpu6050 6 sensors axes data.
 
 
 The model was built on behalf of Google Colab with neural networks.
